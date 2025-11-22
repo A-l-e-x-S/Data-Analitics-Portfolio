@@ -95,3 +95,22 @@ project_2_sales_overview/
 ├── Global Superstore.pdf
 └── README.md
 ```
+---
+
+## 📬 **Author**
+
+**Aleksandr Svirskii**
+Data Analyst | Information Science Graduate
+
+* Email: [asvirskii.job@gmail.com](mailto:asvirskii.job@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/aleksandr-svirskii-800b00316](https://www.linkedin.com/in/aleksandr-svirskii-800b00316)
+* GitHub: [https://github.com/A-l-e-x-S](https://github.com/A-l-e-x-S)
+
+---
+
+## ⭐ **If you like this project**
+
+Feel free to ⭐ the repository or reach out!
+This dashboard is part of a growing portfolio of analytics projects.
+
+---
