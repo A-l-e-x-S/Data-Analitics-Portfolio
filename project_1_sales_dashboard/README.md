@@ -108,6 +108,7 @@ project_1_sales_dashboard/
 │   └── category_chart.png
 │
 ├── Global Superstore.pbix
+├── Global Superstore.pdf
 └── README.md
 ```
 
