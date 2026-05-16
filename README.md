@@ -6,7 +6,7 @@ This repository presents examples of my work as a **Data Analyst**, demonstratin
 ---
 
 ## 👨‍💻 About Me
-I’m **Aleksandr Svirskii**, a Bachelor’s student in **Information Science** at *Bar-Ilan University*.  
+I’m **Aleksandr Svirskii**, a Bachelor’s student in **Information Science And Applied AI** at *Bar-Ilan University*.  
 Throughout my studies, I’ve developed strong analytical thinking and a particular passion for **database analysis and visualization**.  
 I’m currently seeking an entry-level Data Analyst position to apply my skills and continue learning through real-world projects.
 
@@ -24,11 +24,7 @@ MySQL · MongoDB
 Excel · Power BI · SQL · Python (pandas, matplotlib, seaborn)  
 
 **Other Tools & Platforms:**  
-ASP.NET · WordPress (basic site creation, theme customization, content management)  
-
-**Currently Learning:**  
-📘 *Google Data Analytics Professional Certificate* (in progress)  
-– Topics: Data cleaning, analysis, visualization, SQL, Power BI  
+ASP.NET · WordPress (basic site creation, theme customization, content management)    
 
 ---
 
@@ -54,7 +50,7 @@ ASP.NET · WordPress (basic site creation, theme customization, content manageme
 ---
 
 ## 🛠️ Professional Development
-- *Google Data Analytics Professional Certificate* (in progress)  
+- *Google Data Analytics Professional Certificate*   
 - *LinkedIn Learning: SQL and Data Analyst Courses*
 
 ---
