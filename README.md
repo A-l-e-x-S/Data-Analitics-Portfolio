@@ -1,14 +1,14 @@
-# 🧠 Data Analytics Portfolio
+# 🧠 Portfolio
 
 Welcome!  
-This repository presents examples of my work as a **Data Analyst**, demonstrating my ability to collect, clean, analyze, and visualize data to generate actionable business insights.
+This repository presents examples of my work as a **Operations & Data Analyst**, demonstrating my ability to collect, clean, analyze, and visualize data to generate actionable business insights.
 
 ---
 
 ## 👨‍💻 About Me
 I’m **Aleksandr Svirskii**, a Bachelor’s student in **Information Science And Applied AI** at *Bar-Ilan University*.  
 Throughout my studies, I’ve developed strong analytical thinking and a particular passion for **database analysis and visualization**.  
-I’m currently seeking an entry-level Data Analyst position to apply my skills and continue learning through real-world projects.
+I’m currently seeking an Operations/Data Analyst position to apply my skills and continue learning through real-world projects.
 
 ---
 
